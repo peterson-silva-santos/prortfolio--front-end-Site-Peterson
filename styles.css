@@ -344,6 +344,11 @@ section .title::after{
 .skills .skills-content .right .mysql::before{
     width: 42%;
 }
+.skills .skills-content .right .Flutter::before{
+    width: 20%;
+}
+
+
 /*  sessão equipe  
 .teams .title::after{
     content: "Especializada";
